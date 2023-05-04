@@ -1,0 +1,12 @@
+
+Hi !
+
+codes "model_..." are for training AI Agent.
+
+codes "play_..." are for seeing trained AI(s) play.
+codes "paddle_..." are the game codes, necessary for the two last type of codes.
+
+results are available here : https://www.youtube.com/watch?v=tqEc8xA2Qzk&t=18s
+
+Codes inspired from this GitHub :
+https://github.com/LALalitViyogi/PaddleTheBall
